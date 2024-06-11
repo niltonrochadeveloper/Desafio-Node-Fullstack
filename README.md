@@ -55,21 +55,21 @@ Desenvolver uma aplicação frontend para gerenciar um sistema de gerenciamento 
 - Tratamento de erros.
 - Funcionalidades extras (diferenciais).
 
-# Desafio Backend | NodeJS
+# Desafio Backend | NodeJS ou .NET
 
 ## 💻 Tecnologias:
 
-- Nest.js com TypeScript
-- PostgreSQL
-- Prisma ORM
+- Nest.js com TypeScript ou .NET 7/8
+- PostgreSQL ou SQL Server
+- Prisma ORM ou Entity Framework
 
 ## 📜 Requisitos:
 
 ### 1. Configuração Inicial:
 
-- Configurar um projeto usando Nest.js e TypeScript.
-- Configurar um banco de dados PostgreSQL (Local).
-- Utilizar o Prisma como ORM.
+- Configurar um projeto usando Nest.js e TypeScript ou .NET 7/8.
+- Configurar um banco de dados (Local).
+- Utilizar o Prisma ou Entity Framework como ORM, dependendo da stack escolhida.
 
 ### 2. Modelo de Dados:
 
